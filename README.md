@@ -1,4 +1,3 @@
-📂 README.md
 🚀 Overview: What is ProductHireBootcamp?
 
 🧠 Who It's For: Engineering students (3rd/4th year), early-career devs
