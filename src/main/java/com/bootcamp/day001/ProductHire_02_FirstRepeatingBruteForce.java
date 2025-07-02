@@ -17,7 +17,7 @@
 
 package com.bootcamp.day001;
 
-public class ProductHireFirstRepeatingBruteForce {
+public class ProductHire_02_FirstRepeatingBruteForce {
     public static void main(String[] args) {
         int[] rollNumbers = {101, 105, 102, 101, 107, 105};
         int repeating = findFirstRepeating(rollNumbers);

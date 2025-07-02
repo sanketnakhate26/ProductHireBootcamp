@@ -16,7 +16,7 @@
 
 package com.bootcamp.day001;
 
-public class ProductHireHighestAverageOptimized {
+public class ProductHire_01_HighestAverageOptimized {
     public static void main(String[] args) {
         int[][] marks = {
                 {85, 90, 92},

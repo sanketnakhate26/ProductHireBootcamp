@@ -20,7 +20,7 @@ package com.bootcamp.day001;
 
 import java.util.HashSet;
 
-public class ProductHireFirstRepeatingOptimized {
+public class ProductHire_02_FirstRepeatingOptimized {
     public static void main(String[] args) {
         int[] rollNumbers = {101, 105, 102, 101, 107, 105};
         int repeating = findFirstRepeating(rollNumbers);

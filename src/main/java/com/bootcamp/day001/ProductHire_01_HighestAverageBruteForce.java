@@ -18,7 +18,7 @@
 
 package com.bootcamp.day001;
 
-public class ProductHireHighestAverageBruteForce {public static void main(String[] args) {
+public class ProductHire_01_HighestAverageBruteForce {public static void main(String[] args) {
     int[][] marks = {
             {85, 90, 92},
             {70, 80, 65},

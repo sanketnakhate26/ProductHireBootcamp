@@ -12,7 +12,7 @@
 
 package com.bootcamp.day001;
 
-public class ProductHIrePrimeRollNumbersOptimized {
+public class ProductHire_03_PrimeRollNumbersOptimized {
     public static void main(String[] args) {
         int[] rollNumbers = {2, 3, 4, 5, 6, 7, 9, 11, 13, 15, 17};
 
